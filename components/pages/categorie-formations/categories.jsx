@@ -47,8 +47,8 @@ const CategoriesMain = () => {
                                 <div className="services__two-single-service">
                                     <div className="services__two-single-service-icon">
                                     </div>
-                                    <div className="services__two-single-service-image">
-                                        <img className="img__full" src={imageIA?.src} alt="Formations Professionnelles IA" />
+                                    <div className="services__two-single-service-image" style={{aspectRatio: "1/1", overflow: "hidden"}}>
+                                        <img className="img__full" src={imageIA?.src} alt="Formations Professionnelles IA" style={{width: "100%", height: "100%", objectFit: "cover"}} />
                                     </div>
                                     <div className="services__two-single-service-content formation-solution">
                                         <h4>FORMATIONS PRO IA</h4>
@@ -62,8 +62,8 @@ const CategoriesMain = () => {
                                 <div className="services__two-single-service">
                                     <div className="services__two-single-service-icon">
                                     </div>
-                                    <div className="services__two-single-service-image">
-                                        <img className="img__full" src={image1?.src} alt="Création d'entreprise" />
+                                    <div className="services__two-single-service-image" style={{aspectRatio: "1/1", overflow: "hidden"}}>
+                                        <img className="img__full" src={image1?.src} alt="Création d'entreprise" style={{width: "100%", height: "100%", objectFit: "cover"}} />
                                     </div>
                                     <div className="services__two-single-service-content formation-solution">
                                         <h4>FORMATION DENTAIRE</h4>
@@ -77,8 +77,8 @@ const CategoriesMain = () => {
                                 <div className="services__two-single-service">
                                     <div className="services__two-single-service-icon">
                                     </div>
-                                    <div className="services__two-single-service-image">
-                                        <img className="img__full" src={image1?.src} alt="Création d'entreprise" />
+                                    <div className="services__two-single-service-image" style={{aspectRatio: "1/1", overflow: "hidden"}}>
+                                        <img className="img__full" src={image1?.src} alt="Création d'entreprise" style={{width: "100%", height: "100%", objectFit: "cover"}} />
                                     </div>
                                     <div className="services__two-single-service-content formation-solution">
                                         <h4>ENTREPRENEURS</h4> 
