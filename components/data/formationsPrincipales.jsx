@@ -1423,7 +1423,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": REUSSIRVOSPRÉSENTATIONSPOURCONVAINCRE
+    "image": REUSSIRVOSPRESENTATIONSPOURCONVAINCRE
   },
   {
     "id": "reussir-votre-presentation-virtuelle",
@@ -1444,7 +1444,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": REUSSIRVOTREPRÉSENTATIONVIRTUELLE
+    "image": REUSSIRVOTREPRESENTATIONVIRTUELLE
   },
   {
     "id": "parler-en-public-gerer-la-pression",
@@ -1657,7 +1657,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": gestionDesPerformancesDesEmployés
+    "image": gestionDesPerformancesDesEmployes
   },
   {
     "id": "stimuler-recompenser-employes",
@@ -1783,7 +1783,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": apprendreADeléguer
+    "image": apprendreADeleguer
   },
   
   {
@@ -1826,7 +1826,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": choisirLesBonsOutilsDAideALaDécision
+    "image": choisirLesBonsOutilsDAideALaDecision
   },
   {
     "id": "gerer-efficacement-votre-temps",
@@ -1868,7 +1868,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": profiterPleinementDuTélétravail
+    "image": profiterPleinementDuTeletravail
   },
   {
     "id": "initiation-intelligence-artificielle",
@@ -2021,7 +2021,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": identifierLesAménagementsDuTempsDeTravail
+    "image": identifierLesAmenagementsDuTempsDeTravail
   },
   {
     "id": "role-IRP-et-confidentialite-01",
@@ -2043,7 +2043,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": identifierLeRôleDesIRP
+    "image": identifierLeRoleDesIRP
   },
   {
     "id": "calcul-bulletin-paie-variable-01",
@@ -2064,7 +2064,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": calculerUnBulletinDePaieAvecLesÉlémentsVariables
+    "image": calculerUnBulletinDePaieAvecLesElementsVariables
   },
   {
     "id": "calcul-paie-de-depart-01",
@@ -2086,7 +2086,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": calculerLaPaieDeDépart
+    "image": calculerLaPaieDeDepart
   },
   {
     "id": "calcul-post-paie-01",
@@ -2108,7 +2108,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": calculerLesÉlémentsPostPaie
+    "image": calculerLesElementsPostPaie
   },
   {
     "id": "oral-blanc-01",
@@ -2414,7 +2414,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": LaCybersécuritéEnEntreprise
+    "image": LaCybersecuriteEnEntreprise
   },
   
   {
@@ -3174,7 +3174,7 @@ const formationsData = [
       "audio_description": "Non",
       "sous_titrage": "Non"
     },
-    "image": BilanDeMédicationDeLaThéorieALaPratique
+    "image": BilanDeMedicationDeLaTheorieALaPratique
   }
 ]
 
