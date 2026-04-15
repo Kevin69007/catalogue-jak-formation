@@ -65,6 +65,7 @@ const FooterThree = () => {
 									<li><Link href="/">Accueil</Link></li>
 									<li><Link href="https://formations-dentaire.fr/#Solutions">⁠Formation Dentaire</Link></li>
 									<li><Link href="/categories/Entrepreneur">⁠Création Entreprise</Link></li>
+									<li><Link href="/formations-ia">Formations IA</Link></li>
 									<li onClick={() => setSidebarOpen(true)}><Link href="">Contact</Link></li>
                                 </ul>
                             </div>
