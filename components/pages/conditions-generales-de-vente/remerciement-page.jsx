@@ -23,7 +23,7 @@ const CGV = () => {
             <h2>2. Identité du Vendeur</h2>
             <p>
               <strong>Raison sociale :</strong> JAK Formation<br />
-              <strong>Adresse :</strong> 7 Coronation Road, Dephna House Launches – London NW10 7PQ<br />
+              <strong>Adresse :</strong> 37A Rue Balland, 69120 Vaulx-en-Velin<br />
               <strong>Email :</strong> formation@jak-company.com
             </p>
           </div>
