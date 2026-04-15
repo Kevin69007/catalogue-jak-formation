@@ -43,7 +43,7 @@ const CategoriesMain = () => {
                             </div>
                         </div>
                         <div className="row mt-3">
-                            <div className="col-xl-12 col-lg-12 col-md-12 mb-4">
+                            <div className="col-xl-4 col-lg-4 col-md-6">
                                 <div className="services__two-single-service">
                                     <div className="services__two-single-service-icon">
                                     </div>
@@ -58,7 +58,7 @@ const CategoriesMain = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-xl-6 col-lg-4 col-md-6">
+                            <div className="col-xl-4 col-lg-4 col-md-6">
                                 <div className="services__two-single-service">
                                     <div className="services__two-single-service-icon">
                                     </div>
@@ -73,10 +73,9 @@ const CategoriesMain = () => {
                                     </div>
                                 </div>
                             </div>
-                             <div className="col-xl-6 col-lg-4 col-md-6">
+                             <div className="col-xl-4 col-lg-4 col-md-6">
                                 <div className="services__two-single-service">
                                     <div className="services__two-single-service-icon">
-                                        {/* Vous pouvez ajouter une icône ou un contenu ici */}
                                     </div>
                                     <div className="services__two-single-service-image">
                                         <img className="img__full" src={image1?.src} alt="Création d'entreprise" />
