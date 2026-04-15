@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import servicesData from '@/components/data/categoriesPrincipale';
 import image1 from "@/public/assets/img/v1/CREATION-ENTREPRISE.jpg";
+import imageIA from "@/public/assets/img/categories/FORMATIONS IA.png";
 import { useEffect } from 'react';
 
 const CategoriesMain = () => {
@@ -42,16 +43,30 @@ const CategoriesMain = () => {
                             </div>
                         </div>
                         <div className="row mt-3">
+                            <div className="col-xl-12 col-lg-12 col-md-12 mb-4">
+                                <div className="services__two-single-service">
+                                    <div className="services__two-single-service-icon">
+                                    </div>
+                                    <div className="services__two-single-service-image">
+                                        <img className="img__full" src={imageIA?.src} alt="Formations Professionnelles IA" />
+                                    </div>
+                                    <div className="services__two-single-service-content formation-solution">
+                                        <h4>FORMATIONS PRO IA</h4>
+                                        <Link href="/formations-ia" className="btn-one mb-20 ml-20">
+                                            Voir les formations
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
                             <div className="col-xl-6 col-lg-4 col-md-6">
                                 <div className="services__two-single-service">
                                     <div className="services__two-single-service-icon">
-                                        {/* Vous pouvez ajouter une icône ou un contenu ici */}
                                     </div>
                                     <div className="services__two-single-service-image">
                                         <img className="img__full" src={image1?.src} alt="Création d'entreprise" />
                                     </div>
                                     <div className="services__two-single-service-content formation-solution">
-                                        <h4>FORMATION DENTAIRE</h4> 
+                                        <h4>FORMATION DENTAIRE</h4>
                                         <Link href={`https://formations-dentaire.fr`} className="btn-one mb-20 ml-20">
                                             Voir les formations
                                         </Link>
