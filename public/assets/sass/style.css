@@ -4682,7 +4682,8 @@ Responsive Menu Css
 ==========================================================================*/
 .page__banner {
   /* background-color: #00000057; */
-  background:var(--color-5) url(../img/video/imageFond.png) no-repeat center bottom;
+  background:var(--color-5) url(../img/video/imageFond.png) no-repeat center center;
+  background-size: cover;
   position: relative;
   overflow: hidden;
   height: 500px;
